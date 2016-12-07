@@ -1,0 +1,3 @@
+CHANGED,/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/fi/harism/curl/CurlActivity$PageProvider.class
+CHANGED,/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/fi/harism/curl/CurlActivity$SizeChangedObserver.class
+CHANGED,/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/fi/harism/curl/CurlActivity.class

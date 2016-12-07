@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="3298477642220"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="93" />
+    <task
+        name="instant-run-dex"
+        duration="588" />
+    <task
+        name="instant-run-transform"
+        duration="20" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="2043050568340" >
+        <artifact
+            location="/Users/zhangshuqing/git/android_page_curl1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="3018706577911" >
+        <artifact
+            location="/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="3245709962731" >
+        <artifact
+            location="/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="3298477642220"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/zhangshuqing/git/android_page_curl1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/zhangshuqing/git/android_page_curl1/app/build/intermediates/res/merged/debug/layout/item.xml",
+        "source": "/Users/zhangshuqing/git/android_page_curl1/app/src/main/res/layout/item.xml"
+    }
+]
